@@ -24,7 +24,7 @@
     }
   }
   return NO;
-}
+}	
 
 - (void)testRendersWelcomeScreen
 {
